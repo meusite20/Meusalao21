@@ -1,0 +1,5 @@
+body{font-family:sans-serif;background:#fff1f7;color:#733;padding:10px}
+h1{text-align:center;color:#b3476b}
+table,td,th{border:1px solid #f8a;border-collapse:collapse;padding:4px;background:#ffe6ee}
+button{background:#f7a5c0;color:#fff;border:0;padding:5px 8px;border-radius:6px}
+form input,select{margin:3px;padding:6px;border:1px solid #f7a}
